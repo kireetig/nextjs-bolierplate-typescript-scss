@@ -1,5 +1,6 @@
-import React from 'react'
-import Link from 'next/link'
+import React from 'react';
+import Link from 'next/link';
+import * as style from '../scss/main.global.scss';
 
 const links = [
   { href: 'https://zeit.co/now', label: 'ZEIT' },
